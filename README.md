@@ -1,4 +1,4 @@
-# cellular-automata
+# Elementary Cellular Auomaton
 
 
 Please click the image for video demonstration. Thank you :)
